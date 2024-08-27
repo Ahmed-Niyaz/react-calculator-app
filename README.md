@@ -9,7 +9,7 @@ Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division.
 Clear Functionality: Reset the calculator to start a new calculation.
 Responsive Design.
 
-### Usage
+## Usage
 Buttons: Click the buttons to input numbers and operations.
 Clear: Use the "AC" button to reset the calculator.
 Equal: Use the "=" button to calculate the result.
@@ -22,7 +22,7 @@ Node.js (version 14.x or higher recommended)
 npm or yarn
 
 ### Installation
-  1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/Ahmed-Niyaz/react-calculator-app.git
@@ -30,30 +30,30 @@ git clone https://github.com/Ahmed-Niyaz/react-calculator-app.git
 cd simple-calculator
 
 ```
-  2. Install Dependencies
+2. Install Dependencies
 
-  Using npm:
+Using npm:
 
 ```bash
 npm install
 ```
 
-  Or using yarn:
+Or using yarn:
 
 ```bash
 yarn install
 ```
 
 ### Running the App
-  3. Start the Development Server
+3. Start the Development Server
 
- Using npm:
+Using npm:
 
 ```bash
 npm start
 ```
 
-  Or using yarn:
+Or using yarn:
 
 ```bash
 yarn start
@@ -67,12 +67,12 @@ Open your browser and navigate to http://localhost:3000 or the port it provides 
 
 To create a production-ready build of the app:
 
-  Using npm:
+Using npm:
 
 ```bash
 npm run build
 ```
-  Or using yarn:
+Or using yarn:
 
 ```bash
 yarn build
